@@ -1,5 +1,8 @@
 node_modules
 
+# Build artifacts
+dist
+
 # OS garbage
 .DS_Store
 Thumbs.db
